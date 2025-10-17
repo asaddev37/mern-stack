@@ -57,7 +57,7 @@ A stunning, modern personal finance management application built with the MERN s
    - Copy `server/config.env` and update with your MongoDB connection string
    - Your MongoDB connection string is already configured:
      ```
-     MONGODB_URI=mongodb+srv://awais:awais125@cluster1.r38qfpg.mongodb.net/finance_tracker?retryWrites=true&w=majority
+     MONGODB_URI=mongodb+srv: 
      ```
 
 4. **Start the application**
