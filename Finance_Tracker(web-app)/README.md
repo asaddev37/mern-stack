@@ -33,6 +33,98 @@ A stunning, modern personal finance management application built with the MERN s
 - **Financial Health Score** - Overall financial status
 - **Export Reports** - Download financial data
 
+## 📸 Visual Showcase
+
+<div align="center">
+
+### 🏠 Dashboard
+<table>
+  <tr>
+    <td align="center"><b>Dashboard Overview</b></td>
+    <td align="center"><b>Recent Transactions</b></td>
+    <td align="center"><b>Quick Actions</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c3e7847d-1f75-406d-a05c-d5da0dfdd529" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/6713a7a8-125f-4bfc-990a-afd7f82873f2" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/9748a4f2-5242-40c2-b26c-0396d54844a2" width="300"></td>
+  </tr>
+</table>
+
+### 💳 Transactions
+<table>
+  <tr>
+    <td align="center"><b>Transaction Overview</b></td>
+    <td align="center"><b>Transaction History</b></td>
+    <td align="center"><b>Add Income</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/969256ac-3d53-472c-a5d8-b79f0fb552fc" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/530585bd-43df-407f-b250-579d0177cfe4" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/2a12d634-e8c7-4a35-b0ab-57605e340461" width="300"></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><b>Add Expense</b></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://github.com/user-attachments/assets/1b861cb3-2b94-4561-bf56-757139b23a0c" width="600"></td>
+  </tr>
+</table>
+
+### 📊 Budgets & Analytics
+<table>
+  <tr>
+    <td align="center"><b>Budgets Overview</b></td>
+    <td align="center"><b>Analytics Overview</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cdd5a989-1f2b-4f8a-b989-16323e6b5dea" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/12be1a35-2696-4531-8b29-c472486f9c2c" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Income vs Expense Charts</b></td>
+    <td align="center"><b>Spending Trends</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6b315e19-4481-4ae3-aae2-cb23474a55d5" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/555beaaf-1e18-460b-b89c-ffd4979b2216" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>Financial Insights</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/020c8de7-2e9d-425a-ba63-d2b1a775fac3" width="600"></td>
+  </tr>
+</table>
+
+### 👤 Profile & Settings
+<table>
+  <tr>
+    <td align="center"><b>Profile View</b></td>
+    <td align="center"><b>Profile Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a8a0cd19-3d26-47b8-99ac-083902c47f7b" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/accaa9b4-6e8c-4760-a670-ba43418d2573" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Statistics</b></td>
+    <td align="center"><b>Currency Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4f5992d2-2dd4-4cff-80ef-65f7c42976cc" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/a05ef432-2f44-4f72-8e4f-64f2e3e62b67" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>Security Settings</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/563049c7-11d9-40b1-bd95-1c487ee4e153" width="600"></td>
+  </tr>
+</table>
+
+</div>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -116,33 +208,6 @@ finance_tracker/
 ### Database
 - **MongoDB Atlas** - Cloud database service
 - **Collections**: Users, Transactions, Budgets
-
-## 📱 Screenshots
-
-### Dashboard
-- Real-time financial overview
-- Beautiful statistics cards
-- Interactive charts
-- Recent transactions
-- Budget progress
-
-### Transactions
-- Add income/expenses
-- Category management
-- Search and filter
-- Payment method tracking
-
-### Budgets
-- Create spending limits
-- Visual progress bars
-- Budget alerts
-- Category-wise tracking
-
-### Analytics
-- Income vs expense trends
-- Category breakdown charts
-- Monthly/yearly reports
-- Financial insights
 
 ## 🔧 Available Scripts
 
@@ -304,6 +369,7 @@ If you encounter any issues or have questions:
 
 ---
 
-**Built with ❤️ using the MERN stack**
+<div align="center">
+  Made with ❤️ for better financial management
+</div>
 
-*Start tracking your finances today with this beautiful, feature-rich application!*
