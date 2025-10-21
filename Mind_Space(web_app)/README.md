@@ -298,6 +298,13 @@ journals entry:
 recent entries:
 <img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/16eee84b-2f0a-4e35-92a2-54eda73aa043" />
 
+insights section ;
+insights overview:
+<img width="960" height="422" alt="image" src="https://github.com/user-attachments/assets/f478a78b-b952-4fa5-b179-5c1ac558fa9a" />
+statistics:
+<img width="959" height="419" alt="image" src="https://github.com/user-attachments/assets/2c8cbb0d-4245-427d-bf23-8dbd067bab15" />
+mood distribution:
+<img width="960" height="428" alt="image" src="https://github.com/user-attachments/assets/77c04502-d24d-416d-ab01-f0baa761cc50" />
 
 
 
