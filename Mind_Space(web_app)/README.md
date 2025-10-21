@@ -2,6 +2,18 @@
 
 A comprehensive MERN stack application designed to promote mental wellness through journaling, mood tracking, and AI-powered insights.
 
+<div align="center">
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+*A compassionate digital space for mental wellness and self-care*
+
+</div>
+
 ## 🌟 Features
 
 ### Core Functionality
@@ -19,6 +31,118 @@ A comprehensive MERN stack application designed to promote mental wellness throu
 - **Real-time Analytics**: Interactive charts and mood trends
 - **Privacy-Focused**: User data protection and anonymization
 - **AI Integration**: Google Gemini API for sentiment analysis
+
+## 📸 Visual Journey
+
+<div align="center">
+
+### 🏠 Getting Started
+<table>
+  <tr>
+    <td align="center"><b>Welcome to MindSpace</b></td>
+    <td align="center"><b>Login</b></td>
+    <td align="center"><b>Sign Up</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/17f0ca27-05ec-4827-803b-1f3e7f934020" width="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/5a5bcb89-a082-48a0-a587-83de59fee5ee" width="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/ed876aa8-d172-44f6-8a84-0f661842121e" width="280"></td>
+  </tr>
+</table>
+
+### 📊 Dashboard & Journals
+<table>
+  <tr>
+    <td align="center"><b>Dashboard Overview</b></td>
+    <td align="center"><b>Quick Actions</b></td>
+    <td align="center"><b>Journal Entry</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ebe6d842-2340-4fad-816f-ae7e86ff364b" width="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/08007098-d8c7-4875-bc17-cd792fae4791" width="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/47141acd-c791-4f77-b58e-cf48951391d6" width="280"></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><b>Recent Entries</b></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://github.com/user-attachments/assets/16eee84b-2f0a-4e35-92a2-54eda73aa043" width="600"></td>
+  </tr>
+</table>
+
+### 🧠 Insights & Analytics
+<table>
+  <tr>
+    <td align="center"><b>Insights Overview</b></td>
+    <td align="center"><b>Statistics</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f478a78b-b952-4fa5-b179-5c1ac558fa9a" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/2c8cbb0d-4245-427d-bf23-8dbd067bab15" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mood Distribution</b></td>
+    <td align="center"><b>AI Insights</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/77c04502-d24d-416d-ab01-f0baa761cc50" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/dedb9255-c5fc-4668-b1dc-998aaa4a9a88" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>AI Chat Support</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/a516133f-4469-4d48-b2c5-b192e1e4196a" width="600"></td>
+  </tr>
+</table>
+
+### 🌱 Resources & Wellness
+<table>
+  <tr>
+    <td align="center"><b>Resources Dashboard</b></td>
+    <td align="center"><b>Practice Resources</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9462d494-839e-4b67-b7d3-cba2367dd18b" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/23428bbc-1977-425f-aede-bffde0e13476" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Wellness Exercises</b></td>
+    <td align="center"><b>Wellness Goals</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/14a3d978-c8df-469a-91a9-0a8ecc319224" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/2bb88f2f-2fd4-4822-9b37-49081ca7179d" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>Community Tips</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/eb4364cd-db73-4326-8ca5-86acf5d5cebf" width="600"></td>
+  </tr>
+</table>
+
+### 👤 Profile & Settings
+<table>
+  <tr>
+    <td align="center"><b>Profile Overview</b></td>
+    <td align="center"><b>Security Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/eeebdede-6131-454f-9436-c0ab0ff61e49" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/f778030f-f2d6-4efb-ba50-36a55324db6c" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Privacy Preferences</b></td>
+    <td align="center"><b>Data Management</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/37f4e912-7dd4-4ae6-8f07-b555449fcbec" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/9a6c077e-172b-4665-be08-45dd84417486" width="400"></td>
+  </tr>
+</table>
+
+</div>
 
 ## 🏗️ Project Structure
 
@@ -45,36 +169,6 @@ mindspace/
 │   └── package.json        # Frontend dependencies
 └── package.json            # Root package.json for scripts
 ```
-
----
-
-### API Endpoints
-- **Authentication Routes**
-  - POST /api/auth/register
-  - POST /api/auth/login
-  - GET /api/auth/profile
-  - PUT /api/auth/profile
-- **Journal Routes**
-  - GET /api/journals
-  - POST /api/journals
-  - PUT /api/journals/:id
-  - DELETE /api/journals/:id
-  - GET /api/journals/stats
-- **Insights Routes**
-  - POST /api/insights/generate
-  - POST /api/insights/chat
-  - POST /api/insights/chat/stream
-  - GET /api/insights/history
-- **Resources Routes**
-  - GET /api/resources
-  - POST /api/resources (admin)
-  - PUT /api/resources/:id (admin)
-- **Admin Routes**
-  - GET /api/admin/users
-  - GET /api/admin/analytics
-  - POST /api/admin/resources
-
----
 
 ## 🚀 Quick Start
 
@@ -154,21 +248,6 @@ GEMINI_MODEL=gemini-1.5-flash-latest
 CLIENT_URL=http://localhost:3000
 ```
 
-## 📱 Usage
-
-### For Users
-1. **Register/Login**: Create an account or use Google OAuth
-2. **Start Journaling**: Write daily entries with mood tracking
-3. **View Insights**: Get AI-powered sentiment analysis and trends
-4. **Set Goals**: Create and track wellness objectives
-5. **Explore Community**: View anonymized shared content
-
-### For Admins
-1. **Access Dashboard**: Use admin credentials to access moderation tools
-2. **Monitor Analytics**: View user engagement and content statistics
-3. **Moderate Content**: Review and manage shared community content
-4. **Export Data**: Generate reports for analysis
-
 ## 🛠️ Development
 
 ### Backend Development
@@ -192,6 +271,33 @@ npm test           # Run frontend tests
 - `npm run build` - Build both frontend and backend for production
 - `npm run seed` - Seed the database with sample data
 - `npm run install:all` - Install dependencies for both frontend and backend
+
+## 🌐 API Endpoints
+
+- **Authentication Routes**
+  - POST /api/auth/register
+  - POST /api/auth/login
+  - GET /api/auth/profile
+  - PUT /api/auth/profile
+- **Journal Routes**
+  - GET /api/journals
+  - POST /api/journals
+  - PUT /api/journals/:id
+  - DELETE /api/journals/:id
+  - GET /api/journals/stats
+- **Insights Routes**
+  - POST /api/insights/generate
+  - POST /api/insights/chat
+  - POST /api/insights/chat/stream
+  - GET /api/insights/history
+- **Resources Routes**
+  - GET /api/resources
+  - POST /api/resources (admin)
+  - PUT /api/resources/:id (admin)
+- **Admin Routes**
+  - GET /api/admin/users
+  - GET /api/admin/analytics
+  - POST /api/admin/resources
 
 ## 🧠 AI Integration
 
@@ -279,67 +385,10 @@ For support and questions:
 - Multi-language support
 
 ---
-screeshots:
-mind space landing page section :
-mind space intro:
-<img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/17f0ca27-05ec-4827-803b-1f3e7f934020" />
-login page:
-<img width="952" height="424" alt="image" src="https://github.com/user-attachments/assets/5a5bcb89-a082-48a0-a587-83de59fee5ee" />
-signup page:
-<img width="956" height="418" alt="image" src="https://github.com/user-attachments/assets/ed876aa8-d172-44f6-8a84-0f661842121e" />
-Dashboard section :
-dashboard overview:
-<img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/ebe6d842-2340-4fad-816f-ae7e86ff364b" />
-quick actions:
-<img width="957" height="422" alt="image" src="https://github.com/user-attachments/assets/08007098-d8c7-4875-bc17-cd792fae4791" />
 
-journals section ;
-journals entry:
-<img width="960" height="419" alt="image" src="https://github.com/user-attachments/assets/47141acd-c791-4f77-b58e-cf48951391d6" />
-recent entries:
-<img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/16eee84b-2f0a-4e35-92a2-54eda73aa043" />
+<div align="center">
+  **Built with ❤️ for mental wellness and self-care**
+  
+  <sub>Your journey to better mental health starts here</sub>
+</div>
 
-insights section ;
-insights overview:
-<img width="960" height="422" alt="image" src="https://github.com/user-attachments/assets/f478a78b-b952-4fa5-b179-5c1ac558fa9a" />
-statistics:
-<img width="959" height="419" alt="image" src="https://github.com/user-attachments/assets/2c8cbb0d-4245-427d-bf23-8dbd067bab15" />
-mood distribution:
-<img width="960" height="428" alt="image" src="https://github.com/user-attachments/assets/77c04502-d24d-416d-ab01-f0baa761cc50" />
-ai-insights:
-<img width="960" height="425" alt="image" src="https://github.com/user-attachments/assets/dedb9255-c5fc-4668-b1dc-998aaa4a9a88" />
-chat boat:
-<img width="960" height="427" alt="image" src="https://github.com/user-attachments/assets/a516133f-4469-4d48-b2c5-b192e1e4196a" />
-
-Resources section :
-resources dashboard:
-<img width="960" height="427" alt="image" src="https://github.com/user-attachments/assets/9462d494-839e-4b67-b7d3-cba2367dd18b" />
-resources practice:
-<img width="960" height="422" alt="image" src="https://github.com/user-attachments/assets/23428bbc-1977-425f-aede-bffde0e13476" />
-excercise :
-<img width="960" height="422" alt="image" src="https://github.com/user-attachments/assets/14a3d978-c8df-469a-91a9-0a8ecc319224" />
-welness goals:
-<img width="959" height="430" alt="image" src="https://github.com/user-attachments/assets/2bb88f2f-2fd4-4822-9b37-49081ca7179d" />
-community tips:
-<img width="959" height="427" alt="image" src="https://github.com/user-attachments/assets/eb4364cd-db73-4326-8ca5-86acf5d5cebf" />
-
-profile section :
-profile overview:
-<img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/eeebdede-6131-454f-9436-c0ab0ff61e49" />
-profile management and security setting:
-<img width="957" height="427" alt="image" src="https://github.com/user-attachments/assets/f778030f-f2d6-4efb-ba50-36a55324db6c" />
-privacy prefrences:
-<img width="958" height="424" alt="image" src="https://github.com/user-attachments/assets/37f4e912-7dd4-4ae6-8f07-b555449fcbec" />
-data management:
-<img width="960" height="427" alt="image" src="https://github.com/user-attachments/assets/9a6c077e-172b-4665-be08-45dd84417486" />
-
-
-
-
-
-
-
-
-
-
-**Built with ❤️ for mental wellness and self-care**
