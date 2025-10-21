@@ -280,6 +280,7 @@ For support and questions:
 
 ---
 screeshots:
+mind space landing page section :
 mind space intro:
 <img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/17f0ca27-05ec-4827-803b-1f3e7f934020" />
 login page:
@@ -323,8 +324,14 @@ community tips:
 <img width="959" height="427" alt="image" src="https://github.com/user-attachments/assets/eb4364cd-db73-4326-8ca5-86acf5d5cebf" />
 
 profile section :
+profile overview:
 <img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/eeebdede-6131-454f-9436-c0ab0ff61e49" />
-
+profile management and security setting:
+<img width="957" height="427" alt="image" src="https://github.com/user-attachments/assets/f778030f-f2d6-4efb-ba50-36a55324db6c" />
+privacy prefrences:
+<img width="958" height="424" alt="image" src="https://github.com/user-attachments/assets/37f4e912-7dd4-4ae6-8f07-b555449fcbec" />
+data management:
+<img width="960" height="427" alt="image" src="https://github.com/user-attachments/assets/9a6c077e-172b-4665-be08-45dd84417486" />
 
 
 
