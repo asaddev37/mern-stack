@@ -305,7 +305,16 @@ statistics:
 <img width="959" height="419" alt="image" src="https://github.com/user-attachments/assets/2c8cbb0d-4245-427d-bf23-8dbd067bab15" />
 mood distribution:
 <img width="960" height="428" alt="image" src="https://github.com/user-attachments/assets/77c04502-d24d-416d-ab01-f0baa761cc50" />
+ai-insights:
+<img width="960" height="425" alt="image" src="https://github.com/user-attachments/assets/dedb9255-c5fc-4668-b1dc-998aaa4a9a88" />
+chat boat:
+<img width="960" height="427" alt="image" src="https://github.com/user-attachments/assets/a516133f-4469-4d48-b2c5-b192e1e4196a" />
 
+Resources section :
+resources dashboard:
+<img width="960" height="427" alt="image" src="https://github.com/user-attachments/assets/9462d494-839e-4b67-b7d3-cba2367dd18b" />
+resources practice:
+<img width="960" height="422" alt="image" src="https://github.com/user-attachments/assets/23428bbc-1977-425f-aede-bffde0e13476" />
 
 
 
