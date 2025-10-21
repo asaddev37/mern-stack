@@ -279,5 +279,31 @@ For support and questions:
 - Multi-language support
 
 ---
+screeshots:
+mind space intro:
+<img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/17f0ca27-05ec-4827-803b-1f3e7f934020" />
+login page:
+<img width="952" height="424" alt="image" src="https://github.com/user-attachments/assets/5a5bcb89-a082-48a0-a587-83de59fee5ee" />
+signup page:
+<img width="956" height="418" alt="image" src="https://github.com/user-attachments/assets/ed876aa8-d172-44f6-8a84-0f661842121e" />
+Dashboard section :
+dashboard overview:
+<img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/ebe6d842-2340-4fad-816f-ae7e86ff364b" />
+quick acrtions:
+<img width="957" height="422" alt="image" src="https://github.com/user-attachments/assets/08007098-d8c7-4875-bc17-cd792fae4791" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Built with ❤️ for mental wellness and self-care**
