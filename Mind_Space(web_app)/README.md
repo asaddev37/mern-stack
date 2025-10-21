@@ -315,7 +315,15 @@ resources dashboard:
 <img width="960" height="427" alt="image" src="https://github.com/user-attachments/assets/9462d494-839e-4b67-b7d3-cba2367dd18b" />
 resources practice:
 <img width="960" height="422" alt="image" src="https://github.com/user-attachments/assets/23428bbc-1977-425f-aede-bffde0e13476" />
+excercise :
+<img width="960" height="422" alt="image" src="https://github.com/user-attachments/assets/14a3d978-c8df-469a-91a9-0a8ecc319224" />
+welness goals:
+<img width="959" height="430" alt="image" src="https://github.com/user-attachments/assets/2bb88f2f-2fd4-4822-9b37-49081ca7179d" />
+community tips:
+<img width="959" height="427" alt="image" src="https://github.com/user-attachments/assets/eb4364cd-db73-4326-8ca5-86acf5d5cebf" />
 
+profile section :
+<img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/eeebdede-6131-454f-9436-c0ab0ff61e49" />
 
 
 
