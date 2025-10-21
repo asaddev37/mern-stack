@@ -289,9 +289,14 @@ signup page:
 Dashboard section :
 dashboard overview:
 <img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/ebe6d842-2340-4fad-816f-ae7e86ff364b" />
-quick acrtions:
+quick actions:
 <img width="957" height="422" alt="image" src="https://github.com/user-attachments/assets/08007098-d8c7-4875-bc17-cd792fae4791" />
 
+journals section ;
+journals entry:
+<img width="960" height="419" alt="image" src="https://github.com/user-attachments/assets/47141acd-c791-4f77-b58e-cf48951391d6" />
+recent entries:
+<img width="960" height="424" alt="image" src="https://github.com/user-attachments/assets/16eee84b-2f0a-4e35-92a2-54eda73aa043" />
 
 
 
