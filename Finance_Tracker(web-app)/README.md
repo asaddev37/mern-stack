@@ -8,6 +8,18 @@ A stunning, modern personal finance management application built with the MERN s
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 
+## 🎥 Live Demo
+
+<div align="center">
+
+### 🚀 Watch the Full Application Walkthrough
+
+[![Finance Tracker Demo Video](https://img.shields.io/badge/🎬_Watch_Full_Demo-Video_Guide-FF6B6B?style=for-the-badge&logo=video&logoColor=white)](https://drive.google.com/file/d/1mb-3b6BPChCCCUO-8STLn5WpzO1cBCKB/view?usp=sharing)
+
+*Click the button above to watch the complete demo video on Google Drive*
+
+</div>
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
@@ -368,11 +380,16 @@ If you encounter any issues or have questions:
 - **Database**: MongoDB Atlas
 
 ---
-download video 
 
-https://drive.google.com/file/d/1mb-3b6BPChCCCUO-8STLn5WpzO1cBCKB/view?usp=sharing
+<div align="center">
 
+### 📺 Need a Visual Walkthrough?
 
+[![Watch Demo Video](https://img.shields.io/badge/📺_Watch_Full_Demo_Video-Click_Here-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1mb-3b6BPChCCCUO-8STLn5WpzO1cBCKB/view?usp=sharing)
+
+*See the application in action with our comprehensive demo video*
+
+</div>
 
 ---
 
