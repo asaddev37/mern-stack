@@ -397,8 +397,16 @@ For support and questions:
 - Multi-language support
 
 ---
-Demo Video:
-https://drive.google.com/file/d/1eyaAAk8QodTftpFYFy3LkbiQdBaZxplz/view?usp=sharing
+<div align="center">
+
+### 📺 Need a Visual Walkthrough?
+
+[![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Full_Demo-Video_Walkthrough-4CAF50?style=for-the-badge&logo=video&logoColor=white)](https://drive.google.com/file/d/1eyaAAk8QodTftpFYFy3LkbiQdBaZxplz/view?usp=sharing)
+
+*See the application in action with our comprehensive demo video*
+
+</div>
+
 ---
 
 <div align="center">
