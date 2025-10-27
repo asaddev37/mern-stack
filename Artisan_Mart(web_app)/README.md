@@ -162,5 +162,8 @@ Contributions are what make the open-source community such an amazing place to l
 - [Stripe](https://stripe.com/)
 
 ---
+Demo video:
+https://drive.google.com/file/d/1sbSwi443xpEM58qW2sx_ycY5VVIfon08/view?usp=sharing
+
 
 
