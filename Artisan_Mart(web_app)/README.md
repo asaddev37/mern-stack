@@ -13,6 +13,18 @@
 
 </div>
 
+## 🎥 See ArtisanMart in Action
+
+<div align="center">
+
+### 🚀 Watch the Complete Marketplace Experience
+
+[![ArtisanMart Demo Video](https://img.shields.io/badge/🎬_Watch_Full_Demo-Video_Walkthrough-FF6B6B?style=for-the-badge&logo=video&logoColor=white)](https://drive.google.com/file/d/1sbSwi443xpEM58qW2sx_ycY5VVIfon08/view?usp=sharing)
+
+*Click above to watch the complete demo and see how ArtisanMart empowers artisans and shoppers*
+
+</div>
+
 ## 🌟 Overview
 
 ArtisanMart is a comprehensive multi-vendor marketplace designed specifically for artisans and crafters to showcase and sell their unique handmade products. Our platform bridges the gap between talented creators and customers seeking authentic, handcrafted items.
@@ -162,8 +174,19 @@ Contributions are what make the open-source community such an amazing place to l
 - [Stripe](https://stripe.com/)
 
 ---
-Demo video:
-https://drive.google.com/file/d/1sbSwi443xpEM58qW2sx_ycY5VVIfon08/view?usp=sharing
 
+<div align="center">
 
+### 📺 Experience the Complete Marketplace
 
+[![Watch ArtisanMart Demo](https://img.shields.io/badge/🛍️_Watch_Full_Marketplace_Demo-Click_Here-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1sbSwi443xpEM58qW2sx_ycY5VVIfon08/view?usp=sharing)
+
+*See how ArtisanMart creates opportunities for artisans and shoppers alike*
+
+</div>
+
+---
+
+<div align="center">
+  **Built with ❤️ for artisans and crafters worldwide**
+</div>
